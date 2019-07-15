@@ -1175,7 +1175,7 @@ input, select, textarea {
 		width: 100%;
 		padding: 4rem 2rem;
 		z-index: 3;
-		background-image: url("https://cdn.arstechnica.net/wp-content/uploads/2018/06/macOS-Mojave-Dynamic-Wallpaper-transition.jpg");
+		background-image: url("../../images/background.jpeg");
 		-webkit-background-size: cover;
     	-moz-background-size: cover;
     	-o-background-size: cover;
